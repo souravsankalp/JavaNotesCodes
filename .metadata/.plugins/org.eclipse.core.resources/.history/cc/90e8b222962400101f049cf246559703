@@ -1,0 +1,14 @@
+package hello;
+
+import lombok.Data;
+
+@Data 
+public class test {
+	
+	int id;
+	String name;
+	String surname;
+	
+
+
+}

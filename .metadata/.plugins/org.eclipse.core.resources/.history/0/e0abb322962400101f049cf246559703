@@ -1,0 +1,12 @@
+package hello;
+
+
+public class test1 {
+	
+	int id;
+	String name;
+	String surname;
+	
+
+
+}

@@ -1,0 +1,12 @@
+package ClassAttributes;
+
+public class Dog {
+
+	// Declaring and initializing the attributes
+	  String breed = "German Shepherd";
+	  int age = 2;
+	  String color = "Black";
+
+	
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlInlineBinaryData"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="inhertance.Super_Class"/>
+    <fullyQualifiedTypeName name="polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="polymorphism.Vegetarian"/>
+    <fullyQualifiedTypeName name="Overriding.Animal"/>
+</qualifiedTypeNameHistroy>
